@@ -1,5 +1,6 @@
 BiGAN for Host Behavior Anomaly Detection
 ==
+This repository contains the code for Research and Implementation of Host Behavior Anomaly Detection Technology Based on Deep Learning, published in CSCWD 2022.
 本代码是基于BiGAN的主机行为异常检测实现，训练BiGAN模型并应用不同loss函数来对主机行为进行异常检测。
 
 ---
